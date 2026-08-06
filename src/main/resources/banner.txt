@@ -21,6 +21,6 @@
 *          ORM      : Spring Data JPA                                *
 *          API Docs : Swagger OpenAPI                                *
 *                                                                    *
-*                  Developed By Arun Kumar                           *
+*                  Developed By Sudharsan                            *
 *                                                                    *
 **********************************************************************
